@@ -1,0 +1,24 @@
+{
+    "name": "@rosinfo.tech/stylelint-config-standard",
+    "version": "0.0.3",
+    "access": "public",
+    "main": "index.js",
+    "publishConfig": {
+        "access": "public"
+    },
+    "keywords": [
+        "stylelint",
+        "stylelintconfig",
+        "config",
+        "css",
+        "scss",
+        "sass",
+        "styleguide",
+        "rosinfotech"
+    ],
+    "dependencies": {
+        "stylelint-config-recommended": "^5.0.0",
+        "stylelint-config-prettier": "^8.0.2",
+        "stylelint-order": "^4.1.0"
+    }
+}
