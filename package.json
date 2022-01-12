@@ -1,6 +1,6 @@
 {
     "name": "@rosinfo.tech/stylelint-config-standard",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "access": "public",
     "main": "index.js",
     "publishConfig": {
@@ -17,8 +17,8 @@
         "rosinfotech"
     ],
     "dependencies": {
-        "stylelint-config-recommended": "^5.0.0",
-        "stylelint-config-prettier": "^8.0.2",
-        "stylelint-order": "^4.1.0"
+        "stylelint-config-recommended": "^6.0.0",
+        "stylelint-config-prettier": "^9.0.3",
+        "stylelint-order": "^5.0.0"
     }
 }
